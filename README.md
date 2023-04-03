@@ -1,2 +1,23 @@
-# HIT-Database-System-Assignments-Spring-2023
-哈工大《数据库系统》实验-2023年春 | HIT Database System Assignments - Spring 2023
+# 哈工大《数据库系统》实验-2023年春
+
+## 实验内容
+
+### Assignment 01
+
++ 部署并从终端远程登陆 MySQL 数据库
+
++ 练习使用 SQL 语句操作数据库
+
+### Assignment 02
+
++ 设计一个关系数据库系统，在 MySQL 中创建好数据表并录入数据
+
++ 编写一个控制台程序或桌面应用（GUI），远程连接数据库
+
++ 允许用户使用该应用程序操作数据库
+
+### Assignment 03
+
++ 实现关系连接算法
+
++ 实现优化查询算法
