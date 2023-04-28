@@ -1,4 +1,4 @@
 Assignment-03/src/** linguist-vendored
-!Assignment-03/src/buffer.cpp
+Assignment-03/src/buffer.cpp -linguist-vendored=false
 
 Assignment-03/docs/** linguist-vendored
